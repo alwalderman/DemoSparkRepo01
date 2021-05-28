@@ -1,191 +1,191 @@
 name,ring,quadrant,isNew,description
-AI + Machine Learning,Lab,Azure,FALSE,"""AI + Machine Learning"""
-Analytics,Lab,Azure,FALSE,"""Analytics"""
-Blockchain,Lab,Azure,FALSE,"""Blockchain"""
-Compute,Expert,Azure,FALSE,"""Compute"""
-Containers,Expert,Azure,FALSE,"""Containers"""
-Databases,Mature,Azure,FALSE,"""Databases"""
-Developer Tools,Expert,Azure,FALSE,"""Developer Tools"""
-DevOps,Expert,Azure,FALSE,"""DevOps"""
-Hybrid + Multicloud,Expert,Azure,FALSE,"""Hybrid + Multicloud"""
-Identity,Expert,Azure,FALSE,"""Identity"""
-Integration,Mature,Azure,FALSE,"""Integration"""
-IoT,Lab,Azure,FALSE,"""IoT"""
-Management and Governance,Expert,Azure,FALSE,"""Management and Governance"""
-Media,Lab,Azure,FALSE,"""Media"""
-Migration,Expert,Azure,FALSE,"""Migration"""
-Mixed Reality,Lab,Azure,FALSE,"""Mixed Reality"""
-Mobile,Mature,Azure,FALSE,"""Mobile"""
-Networking,Expert,Azure,FALSE,"""Networking"""
-Security,Expert,Azure,FALSE,"""Security"""
-Storage,Expert,Azure,FALSE,"""Storage"""
-Web,Expert,Azure,FALSE,"""Web"""
-Windows Virtual Desktop,Lab,Azure,FALSE,"""Windows Virtual Desktop"""
-Analytics,Lab,AWS,FALSE,"""Analytics"""
-Application Integration,Mature,AWS,FALSE,"""Application Integration"""
-Cost Management,Expert,AWS,FALSE,"""Cost Management"""
-Blockchain,Lab,AWS,FALSE,"""Blockchain"""
-Business Applications,Mature,AWS,FALSE,"""Business Applications"""
-Compute,Expert,AWS,FALSE,"""Compute"""
-Containers,Expert,AWS,FALSE,"""Containers"""
-Customer Engagement,Expert,AWS,FALSE,"""Customer Engagement"""
-Database,Mature,AWS,FALSE,"""Database"""
-Developer Tools,Expert,AWS,FALSE,"""Developer Tools"""
-End User Computing,Expert,AWS,FALSE,"""End User Computing"""
-Front-End Web & Mobile,Expert,AWS,FALSE,"""Front-End Web & Mobile"""
-Game Tech,Lab,AWS,FALSE,"""Game Tech"""
-IoT,Lab,AWS,FALSE,"""IoT"""
-Machine Learning,Lab,AWS,FALSE,"""Machine Learning"""
-Management and Governance,Expert,AWS,FALSE,"""Management and Governance"""
-Media Services,Lab,AWS,FALSE,"""Media Services"""
-Migration & Transfer,Expert,AWS,FALSE,"""Migration & Transfer"""
-Networking and Content Delivery,Expert,AWS,FALSE,"""Networking and Content Delivery"""
-Quantum Technologies,Lab,AWS,FALSE,"""Quantum Technologies"""
-Robotics,Lab,AWS,FALSE,"""Robotics"""
-Satellite,Lab,AWS,FALSE,"""Satellite"""
-"Security, Identity & Compliance",Expert,AWS,FALSE,"""Security, Identity & Compliance"""
-Serverless,Mature,AWS,FALSE,"""Serverless"""
-Storage,Expert,AWS,FALSE,"""Storage"""
-VR & AR,Lab,AWS,FALSE,"""VR & AR"""
-Drone,Mature,Tools,FALSE,"""Drone"""
-CircleCI,Mature,Tools,FALSE,"""CircleCI"""
-TeamCIty,Mature,Tools,FALSE,"""TeamCIty"""
-Octopus Deploy,Mature,Tools,FALSE,"""Octopus Deploy"""
-Jenkins,Mature,Tools,FALSE,"""Jenkins"""
-GitHub,Expert,Tools,FALSE,"""GitHub"""
-Azure DevOps,Expert,Tools,FALSE,"""Azure DevOps"""
-GitHub,Expert,Tools,FALSE,"""GitHub"""
-HashiCorp Terraform,Expert,Tools,FALSE,"""HashiCorp Terraform"""
-Octopus Deploy,Expert,Tools,FALSE,"""Octopus Deploy"""
-Ansible,Expert,Tools,FALSE,"""Ansible"""
-Terragrunt,Expert,Tools,FALSE,"""Terragrunt"""
-HashiCorp Vault,Expert,Tools,FALSE,"""HashiCorp Vault"""
-HashiCorp Packer,Expert,Tools,FALSE,"""HashiCorp Packer"""
-HashiCorp Vagrant,Mature,Tools,FALSE,"""HashiCorp Vagrant"""
-HashiCorp Consul,Mature,Tools,FALSE,"""HashiCorp Consul"""
-HashiCorp Boundary,Lab,Tools,FALSE,"""HashiCorp Boundary"""
-HashiCorp Nomad,Lab,Tools,FALSE,"""HashiCorp Nomad"""
-HashiCorp Waypoint,Lab,Tools,FALSE,"""HashiCorp Waypoint"""
-"Windows, IIS, .NET, SQL",Expert,Platforms,FALSE,"""Windows, IIS, .NET, SQL"""
-Puppet,Mature,Tools,FALSE,"""Puppet"""
-Kubernetes,Mature,Tools,FALSE,"""Kubernetes"""
-Chef,Mature,Tools,FALSE,"""Chef"""
-PowerShell,Expert,Tools,FALSE,"""PowerShell"""
-AppDynamics,Mature,Tools,FALSE,"""AppDynamics"""
-Docker,Mature,Platforms,FALSE,"""Docker"""
-Jenkins,Mature,Tools,FALSE,"""Jenkins"""
-Redgate,Lab,Tools,FALSE,"""Redgate"""
-Linux (LAMP stack),Mature,Platforms,FALSE,"""Linux (LAMP stack)"""
-ARM Templates,Expert,Tools,FALSE,"""ARM Templates"""
-SendGrid,Lab,Tools,FALSE,"""SendGrid"""
-Azure Functions,Mature,Tools,FALSE,"""Azure Functions"""
-Event Grid,Lab,Tools,FALSE,"""Event Grid"""
-Service Bus,Lab,Tools,FALSE,"""Service Bus"""
-DockerHub,Lab,Platforms,FALSE,"""DockerHub"""
-EKS,Mature,AWS,FALSE,"""EKS"""
-AKS,Mature,Azure,FALSE,"""AKS"""
-ECR,Mature,AWS,FALSE,"""ECR"""
-ACR,Mature,Azure,FALSE,"""ACR"""
-ECS,Mature,AWS,FALSE,"""ECS"""
-ACS,Mature,Azure,FALSE,"""ACS"""
-AWS lambda ,Mature,AWS,FALSE,"""AWS lambda """
-AWS Fargate,Lab,AWS,FALSE,"""AWS Fargate"""
-Amazon SQS,Lab,AWS,FALSE,"""Amazon SQS"""
-Amazon API Gateway,Lab,AWS,FALSE,"""Amazon API Gateway"""
-Azure Function Apps,Mature,Azure,FALSE,"""Azure Function Apps"""
-Azure App Service,Expert,Azure,FALSE,"""Azure App Service"""
-Serverless API Management,Mature,Tools,FALSE,"""Serverless API Management"""
-IIS,Expert,Platforms,FALSE,"""IIS"""
-Azure web app,Expert,Azure,FALSE,"""Azure web app"""
-Tomcat,Mature,Platforms,FALSE,"""Tomcat"""
-Nginx/Nginx +,Mature,Platforms,FALSE,"""Nginx/Nginx +"""
-Azure Monitor,Expert,Azure,FALSE,"""Azure Monitor"""
-Performance Insights,Mature,Azure,FALSE,"""Performance Insights"""
-Cloudwatch,Lab,Tools,FALSE,"""Cloudwatch"""
-Application Insights,Mature,Azure,FALSE,"""Application Insights"""
-Windows Defender (AV),Lab,Platforms,FALSE,"""Windows Defender (AV)"""
-Azure Defender,Lab,Platforms,FALSE,"""Azure Defender"""
-Log analytics,Expert,Azure,FALSE,"""Log analytics"""
-Idera,Lab,Tools,FALSE,"""Idera"""
-Solarwinds DPA,Lab,Tools,FALSE,"""Solarwinds DPA"""
-Datadog,Expert,Tools,FALSE,"""Datadog"""
-PagerDuty,Mature,Tools,FALSE,"""PagerDuty"""
-PingDom,Mature,Tools,FALSE,"""PingDom"""
-AWS ElasticSearch,Lab,AWS,FALSE,"""AWS ElasticSearch"""
-Azure ElasticSearch (Bitnami),Lab,AWS,FALSE,"""Azure ElasticSearch (Bitnami)"""
-MSSQL Server,Mature,Platforms,FALSE,"""MSSQL Server"""
-Azure SQL (PaaS),Mature,Azure,FALSE,"""Azure SQL (PaaS)"""
-Amazon RDS for MSSQL/PostgreSQL/MySQL/Maria ,Mature,AWS,FALSE,"""Amazon RDS for MSSQL/PostgreSQL/MySQL/Maria """
-Aurora MySQL/MariaDB,Mature,AWS,FALSE,"""Aurora MySQL/MariaDB"""
-Aurora PostgreSQL,Mature,AWS,FALSE,"""Aurora PostgreSQL"""
-Azure MySQL (PaaS),Mature,Azure,FALSE,"""Azure MySQL (PaaS)"""
-Azure Redis (PaaS) Cache,Mature,Azure,FALSE,"""Azure Redis (PaaS) Cache"""
-AWS Elasticache,Lab,AWS,FALSE,"""AWS Elasticache"""
-TFS,Mature,Tools,FALSE,"""TFS"""
-Spinnaker,Lab,Tools,FALSE,"""Spinnaker"""
-Rundeck,Lab,Tools,FALSE,"""Rundeck"""
-Jenkins,Mature,Tools,FALSE,"""Jenkins"""
-Nagios,Mature,Tools,FALSE,"""Nagios"""
-Symantec Endpoint Protection/Broadcom,Lab,Tools,FALSE,"""Symantec Endpoint Protection/Broadcom"""
-Prometheus,Mature,Tools,FALSE,"""Prometheus"""
-Kibana,Mature,Tools,FALSE,"""Kibana"""
-Grafana,Mature,Tools,FALSE,"""Grafana"""
-FluentD,Lab,Tools,FALSE,"""FluentD"""
-Icinga,Lab,Tools,FALSE,"""Icinga"""
-Bitbucket,Lab,Tools,FALSE,"""Bitbucket"""
-Edge computing resources,Mature,AWS,FALSE,"""Edge computing resources"""
-Storage Gateway,Mature,AWS,FALSE,"""Storage Gateway"""
-DynamoDB,Lab,Platforms,FALSE,"""DynamoDB"""
-MongoDB,Lab,Platforms,FALSE,"""MongoDB"""
-Cosmos,Lab,Azure,FALSE,"""Cosmos"""
-DocumentDB,Lab,Platforms,FALSE,"""DocumentDB"""
-Hyper - V ,Expert,Platforms,FALSE,"""Hyper - V """
-VMWare,Expert,Platforms,FALSE,"""VMWare"""
-AppDynamics,Lab,Tools,FALSE,"""AppDynamics"""
-GCP,Lab,Platforms,FALSE,"""GCP"""
-SourceForge,Lab,Tools,FALSE,"""SourceForge"""
-Google Cloud Source Repositories,Lab,Platforms,FALSE,"""Google Cloud Source Repositories"""
-Serverless Workflow ,Mature,Tools,FALSE,"""Serverless Workflow """
-Amazon RDS Proxy,Lab,AWS,FALSE,"""Amazon RDS Proxy"""
-DockerSwarm,Lab,Tools,FALSE,"""DockerSwarm"""
-Oracle,Lab,Platforms,FALSE,"""Oracle"""
-Sensu,Lab,Tools,FALSE,"""Sensu"""
-PagerDuty,Lab,Tools,FALSE,"""PagerDuty"""
-Datical,Lab,Tools,FALSE,"""Datical"""
-Tasktop ,Lab,Tools,FALSE,"""Tasktop """
-Librato,Lab,Tools,FALSE,"""Librato"""
-Elasticsearch,Lab,Tools,FALSE,"""Elasticsearch"""
-Splunk,Lab,Tools,FALSE,"""Splunk"""
-SonarQube,Mature,Tools,FALSE,"""SonarQube"""
-Nexus,Lab,Tools,FALSE,"""Nexus"""
-GitLab,Lab,Tools,FALSE,"""GitLab"""
-Teams,Expert,Platforms,FALSE,"""Teams"""
-Slack,Expert,Platforms,FALSE,"""Slack"""
-Raygun,Lab,Tools,FALSE,"""Raygun"""
-Catchpoint,Lab,Tools,FALSE,"""Catchpoint"""
-SignalFX,Lab,Tools,FALSE,"""SignalFX"""
-Selenium,Lab,Tools,FALSE,"""Selenium"""
-Gremlin,Lab,Tools,FALSE,"""Gremlin"""
-Jmeter,Lab,Tools,FALSE,"""Jmeter"""
-ServiceNow,Lab,Platforms,FALSE,"""ServiceNow"""
-Atlassian,Mature,Platforms,FALSE,"""Atlassian"""
-Argo CD,Lab,Tools,FALSE,"""Argo CD"""
-GitHub Actions,Lab,Tools,FALSE,"""GitHub Actions"""
-GoCD,Lab,Tools,FALSE,"""GoCD"""
-Gradle,Lab,Tools,FALSE,"""Gradle"""
-Helm,Mature,Tools,FALSE,"""Helm"""
-SaltStack,Lab,Tools,FALSE,"""SaltStack"""
-CloudFormation,Lab,AWS,FALSE,"""CloudFormation"""
-Maven,Lab,Tools,FALSE,"""Maven"""
-Travis CI,Lab,Tools,FALSE,"""Travis CI"""
-Bamboo CI,Lab,Tools,FALSE,"""Bamboo CI"""
-OpenShift,Lab,Platforms,FALSE,"""OpenShift"""
-Logz.io,Lab,Tools,FALSE,"""Logz.io"""
-Kafka,Lab,Tools,FALSE,"""Kafka"""
-Tableau,Lab,Platforms,FALSE,"""Tableau"""
-Python,Mature,Tools,FALSE,"""Python"""
-PHP,Mature,Platforms,FALSE,"""PHP"""
-Apache,Lab,Platforms,FALSE,"""Apache"""
-DataDog,Expert,Tools,FALSE,"""DataDog"""
-Drupal,Lab,Tools,FALSE,"""Drupal"""
-Zabbix,Lab,Tools,FALSE,"""Zabbix"""
+Analytics,Lab,AWS,FALSE,Analytics
+Application Integration,Mature,AWS,FALSE,Application Integration
+Cost Management,Expert,AWS,FALSE,Cost Management
+Blockchain,Lab,AWS,FALSE,Blockchain
+Business Applications,Mature,AWS,FALSE,Business Applications
+Compute,Expert,AWS,FALSE,Compute
+Containers,Expert,AWS,FALSE,Containers
+Customer Engagement,Expert,AWS,FALSE,Customer Engagement
+Database,Mature,AWS,FALSE,Database
+Developer Tools,Expert,AWS,FALSE,Developer Tools
+End User Computing,Expert,AWS,FALSE,End User Computing
+Front-End Web & Mobile,Expert,AWS,FALSE,Front-End Web & Mobile
+Game Tech,Lab,AWS,FALSE,Game Tech
+IoT,Lab,AWS,FALSE,IoT
+Machine Learning,Lab,AWS,FALSE,Machine Learning
+Management and Governance,Expert,AWS,FALSE,Management and Governance
+Media Services,Lab,AWS,FALSE,Media Services
+Migration & Transfer,Expert,AWS,FALSE,Migration & Transfer
+Networking and Content Delivery,Expert,AWS,FALSE,Networking and Content Delivery
+Quantum Technologies,Lab,AWS,FALSE,Quantum Technologies
+Robotics,Lab,AWS,FALSE,Robotics
+Satellite,Lab,AWS,FALSE,Satellite
+"Security, Identity & Compliance",Expert,AWS,FALSE,"Security, Identity & Compliance"
+Serverless,Mature,AWS,FALSE,Serverless
+Storage,Expert,AWS,FALSE,Storage
+VR & AR,Lab,AWS,FALSE,VR & AR
+EKS,Mature,AWS,FALSE,EKS
+ECR,Mature,AWS,FALSE,ECR
+ECS,Mature,AWS,FALSE,ECS
+AWS lambda ,Mature,AWS,FALSE,AWS lambda 
+AWS Fargate,Lab,AWS,FALSE,AWS Fargate
+Amazon SQS,Lab,AWS,FALSE,Amazon SQS
+Amazon API Gateway,Lab,AWS,FALSE,Amazon API Gateway
+AWS ElasticSearch,Lab,AWS,FALSE,AWS ElasticSearch
+Azure ElasticSearch (Bitnami),Lab,AWS,FALSE,Azure ElasticSearch (Bitnami)
+Amazon RDS for MSSQL/PostgreSQL/MySQL/Maria ,Mature,AWS,FALSE,Amazon RDS for MSSQL/PostgreSQL/MySQL/Maria 
+Aurora MySQL/MariaDB,Mature,AWS,FALSE,Aurora MySQL/MariaDB
+Aurora PostgreSQL,Mature,AWS,FALSE,Aurora PostgreSQL
+AWS Elasticache,Lab,AWS,FALSE,AWS Elasticache
+Edge computing resources,Mature,AWS,FALSE,Edge computing resources
+Storage Gateway,Mature,AWS,FALSE,Storage Gateway
+Amazon RDS Proxy,Lab,AWS,FALSE,Amazon RDS Proxy
+CloudFormation,Lab,AWS,FALSE,CloudFormation
+AI + Machine Learning,Lab,Azure,FALSE,AI + Machine Learning
+Analytics,Lab,Azure,FALSE,Analytics
+Blockchain,Lab,Azure,FALSE,Blockchain
+Compute,Expert,Azure,FALSE,Compute
+Containers,Expert,Azure,FALSE,Containers
+Databases,Mature,Azure,FALSE,Databases
+Developer Tools,Expert,Azure,FALSE,Developer Tools
+DevOps,Expert,Azure,FALSE,DevOps
+Hybrid + Multicloud,Expert,Azure,FALSE,Hybrid + Multicloud
+Identity,Expert,Azure,FALSE,Identity
+Integration,Mature,Azure,FALSE,Integration
+IoT,Lab,Azure,FALSE,IoT
+Management and Governance,Expert,Azure,FALSE,Management and Governance
+Media,Lab,Azure,FALSE,Media
+Migration,Expert,Azure,FALSE,Migration
+Mixed Reality,Lab,Azure,FALSE,Mixed Reality
+Mobile,Mature,Azure,FALSE,Mobile
+Networking,Expert,Azure,FALSE,Networking
+Security,Expert,Azure,FALSE,Security
+Storage,Expert,Azure,FALSE,Storage
+Web,Expert,Azure,FALSE,Web
+Windows Virtual Desktop,Lab,Azure,FALSE,Windows Virtual Desktop
+AKS,Mature,Azure,FALSE,AKS
+ACR,Mature,Azure,FALSE,ACR
+ACS,Mature,Azure,FALSE,ACS
+Azure Function Apps,Mature,Azure,FALSE,Azure Function Apps
+Azure App Service,Expert,Azure,FALSE,Azure App Service
+Azure web app,Expert,Azure,FALSE,Azure web app
+Azure Monitor,Expert,Azure,FALSE,Azure Monitor
+Performance Insights,Mature,Azure,FALSE,Performance Insights
+Application Insights,Mature,Azure,FALSE,Application Insights
+Log analytics,Expert,Azure,FALSE,Log analytics
+Azure SQL (PaaS),Mature,Azure,FALSE,Azure SQL (PaaS)
+Azure MySQL (PaaS),Mature,Azure,FALSE,Azure MySQL (PaaS)
+Azure Redis (PaaS) Cache,Mature,Azure,FALSE,Azure Redis (PaaS) Cache
+Cosmos,Lab,Azure,FALSE,Cosmos
+"Windows, IIS, .NET, SQL",Expert,Platforms,FALSE,"Windows, IIS, .NET, SQL"
+Docker,Mature,Platforms,FALSE,Docker
+Linux (LAMP stack),Mature,Platforms,FALSE,Linux (LAMP stack)
+DockerHub,Lab,Platforms,FALSE,DockerHub
+IIS,Expert,Platforms,FALSE,IIS
+Tomcat,Mature,Platforms,FALSE,Tomcat
+Nginx/Nginx +,Mature,Platforms,FALSE,Nginx/Nginx +
+Windows Defender (AV),Lab,Platforms,FALSE,Windows Defender (AV)
+Azure Defender,Lab,Platforms,FALSE,Azure Defender
+MSSQL Server,Mature,Platforms,FALSE,MSSQL Server
+DynamoDB,Lab,Platforms,FALSE,DynamoDB
+MongoDB,Lab,Platforms,FALSE,MongoDB
+DocumentDB,Lab,Platforms,FALSE,DocumentDB
+Hyper - V ,Expert,Platforms,FALSE,Hyper - V 
+VMWare,Expert,Platforms,FALSE,VMWare
+GCP,Lab,Platforms,FALSE,GCP
+Google Cloud Source Repositories,Lab,Platforms,FALSE,Google Cloud Source Repositories
+Oracle,Lab,Platforms,FALSE,Oracle
+Teams,Expert,Platforms,FALSE,Teams
+Slack,Expert,Platforms,FALSE,Slack
+ServiceNow,Lab,Platforms,FALSE,ServiceNow
+Atlassian,Mature,Platforms,FALSE,Atlassian
+OpenShift,Lab,Platforms,FALSE,OpenShift
+Tableau,Lab,Platforms,FALSE,Tableau
+PHP,Mature,Platforms,FALSE,PHP
+Apache,Lab,Platforms,FALSE,Apache
+Drone,Mature,Tools,FALSE,Drone
+CircleCI,Mature,Tools,FALSE,CircleCI
+TeamCIty,Mature,Tools,FALSE,TeamCIty
+Octopus Deploy,Mature,Tools,FALSE,Octopus Deploy
+Jenkins,Mature,Tools,FALSE,Jenkins
+GitHub,Expert,Tools,FALSE,GitHub
+Azure DevOps,Expert,Tools,FALSE,Azure DevOps
+GitHub,Expert,Tools,FALSE,GitHub
+HashiCorp Terraform,Expert,Tools,FALSE,HashiCorp Terraform
+Octopus Deploy,Expert,Tools,FALSE,Octopus Deploy
+Ansible,Expert,Tools,FALSE,Ansible
+Terragrunt,Expert,Tools,FALSE,Terragrunt
+HashiCorp Vault,Expert,Tools,FALSE,HashiCorp Vault
+HashiCorp Packer,Expert,Tools,FALSE,HashiCorp Packer
+HashiCorp Vagrant,Mature,Tools,FALSE,HashiCorp Vagrant
+HashiCorp Consul,Mature,Tools,FALSE,HashiCorp Consul
+HashiCorp Boundary,Lab,Tools,FALSE,HashiCorp Boundary
+HashiCorp Nomad,Lab,Tools,FALSE,HashiCorp Nomad
+HashiCorp Waypoint,Lab,Tools,FALSE,HashiCorp Waypoint
+Puppet,Mature,Tools,FALSE,Puppet
+Kubernetes,Mature,Tools,FALSE,Kubernetes
+Chef,Mature,Tools,FALSE,Chef
+PowerShell,Expert,Tools,FALSE,PowerShell
+AppDynamics,Mature,Tools,FALSE,AppDynamics
+Jenkins,Mature,Tools,FALSE,Jenkins
+Redgate,Lab,Tools,FALSE,Redgate
+ARM Templates,Expert,Tools,FALSE,ARM Templates
+SendGrid,Lab,Tools,FALSE,SendGrid
+Azure Functions,Mature,Tools,FALSE,Azure Functions
+Event Grid,Lab,Tools,FALSE,Event Grid
+Service Bus,Lab,Tools,FALSE,Service Bus
+Serverless API Management,Mature,Tools,FALSE,Serverless API Management
+Cloudwatch,Lab,Tools,FALSE,Cloudwatch
+Idera,Lab,Tools,FALSE,Idera
+Solarwinds DPA,Lab,Tools,FALSE,Solarwinds DPA
+Datadog,Expert,Tools,FALSE,Datadog
+PagerDuty,Mature,Tools,FALSE,PagerDuty
+PingDom,Mature,Tools,FALSE,PingDom
+TFS,Mature,Tools,FALSE,TFS
+Spinnaker,Lab,Tools,FALSE,Spinnaker
+Rundeck,Lab,Tools,FALSE,Rundeck
+Jenkins,Mature,Tools,FALSE,Jenkins
+Nagios,Mature,Tools,FALSE,Nagios
+Symantec Endpoint Protection/Broadcom,Lab,Tools,FALSE,Symantec Endpoint Protection/Broadcom
+Prometheus,Mature,Tools,FALSE,Prometheus
+Kibana,Mature,Tools,FALSE,Kibana
+Grafana,Mature,Tools,FALSE,Grafana
+FluentD,Lab,Tools,FALSE,FluentD
+Icinga,Lab,Tools,FALSE,Icinga
+Bitbucket,Lab,Tools,FALSE,Bitbucket
+AppDynamics,Lab,Tools,FALSE,AppDynamics
+SourceForge,Lab,Tools,FALSE,SourceForge
+Serverless Workflow ,Mature,Tools,FALSE,Serverless Workflow 
+DockerSwarm,Lab,Tools,FALSE,DockerSwarm
+Sensu,Lab,Tools,FALSE,Sensu
+PagerDuty,Lab,Tools,FALSE,PagerDuty
+Datical,Lab,Tools,FALSE,Datical
+Tasktop ,Lab,Tools,FALSE,Tasktop 
+Librato,Lab,Tools,FALSE,Librato
+Elasticsearch,Lab,Tools,FALSE,Elasticsearch
+Splunk,Lab,Tools,FALSE,Splunk
+SonarQube,Mature,Tools,FALSE,SonarQube
+Nexus,Lab,Tools,FALSE,Nexus
+GitLab,Lab,Tools,FALSE,GitLab
+Raygun,Lab,Tools,FALSE,Raygun
+Catchpoint,Lab,Tools,FALSE,Catchpoint
+SignalFX,Lab,Tools,FALSE,SignalFX
+Selenium,Lab,Tools,FALSE,Selenium
+Gremlin,Lab,Tools,FALSE,Gremlin
+Jmeter,Lab,Tools,FALSE,Jmeter
+Argo CD,Lab,Tools,FALSE,Argo CD
+GitHub Actions,Lab,Tools,FALSE,GitHub Actions
+GoCD,Lab,Tools,FALSE,GoCD
+Gradle,Lab,Tools,FALSE,Gradle
+Helm,Mature,Tools,FALSE,Helm
+SaltStack,Lab,Tools,FALSE,SaltStack
+Maven,Lab,Tools,FALSE,Maven
+Travis CI,Lab,Tools,FALSE,Travis CI
+Bamboo CI,Lab,Tools,FALSE,Bamboo CI
+Logz.io,Lab,Tools,FALSE,Logz.io
+Kafka,Lab,Tools,FALSE,Kafka
+Python,Mature,Tools,FALSE,Python
+DataDog,Expert,Tools,FALSE,DataDog
+Drupal,Lab,Tools,FALSE,Drupal
+Zabbix,Lab,Tools,FALSE,Zabbix
