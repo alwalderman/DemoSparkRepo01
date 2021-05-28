@@ -1,0 +1,11 @@
+name,ring,quadrant,isNew,description
+AI + Machine Learning,Expert,tools,FALSE,"description1"
+Analytics,Mature,techniques,FALSE,"description2"
+Blockchain,Lab,platforms,FALSE,"3"
+Compute,Lab,frameworks,FALSE,"4"
+Containers,Expert,tools,FALSE,"5"
+Databases,Mature,techniques,FALSE,"6"
+Developer Tools,Lab,platforms,FALSE,"7"
+DevOps,Lab,frameworks,FALSE,"8"
+Hybrid + Multicloud,Expert,tools,FALSE,"9"
+Identity,Mature,techniques,FALSE,"10"
